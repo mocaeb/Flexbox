@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color: #00008f;
+}
+.box{
+    color: blanchedalmond;
+    width: 200px;
+    text-align: center;
+    font-size: 4rem;
+    margin: 1px;
+}
+.box1{
+background-color: #0000b3;
+}
+.box2{
+background-color: #1a1abb;
+}
+.box3{
+background-color: #3333c2;
+}
+.box4{
+background-color: #4d4dca;
+}
+.box5{
+background-color: #6666d1;
+}
+.box6{
+background-color: #8080d9;
+}
+.box7{
+background-color: #9999e1;
+}
+.box8{
+background-color: #b3b3e8;
+}
